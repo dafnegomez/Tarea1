@@ -1,0 +1,20 @@
+package ejercicio3;
+
+
+public class EJERCICIO3 {
+
+  
+    public static void main(String[] args) {
+        System.out.println(" 1: Dog \t Perro ");
+        System.out.println(" 2: Cat \t Gato ");
+        System.out.println(" 3: House \t Casa ");
+        System.out.println(" 4: Bottle \t Botella ");
+        System.out.println(" 5: Computer \t Computadora ");
+        System.out.println(" 6: Beer \t Cerveza ");
+        System.out.println(" 7: Brave \t Valiente ");
+        System.out.println(" 8: Dust \t Polvo ");
+        System.out.println(" 9: Fear \t Miedo ");
+        System.out.println(" 10: Engineer \t Ingeniero ");
+    }
+    
+}
