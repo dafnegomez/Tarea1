@@ -1,0 +1,15 @@
+package ejercicio4;
+
+public class EJERCICIO4 {
+
+    
+    public static void main(String[] args) {
+      System.out.println(" CURSO \t\t\t HORA ");
+      System.out.println(" 1: Microeconomia \t 7am - 9am ");
+      System.out.println(" 2: Programacion II \t 9am - 11am ");
+      System.out.println(" 3: Calculo II \t\t 11am - 1pm ");
+      System.out.println(" 4: Estadistica I \t 2pm - 4pm ");
+      System.out.println(" 5: Fisica II \t\t 4pm - 6pm ");
+    }
+    
+}
