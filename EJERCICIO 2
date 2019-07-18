@@ -1,0 +1,12 @@
+package ejercicio2;
+
+
+public class EJERCICIO2 {
+
+   
+    public static void main(String[] args) {
+        System.out.println("Dafne Zanelly Gomez Solis\nAldea Los Esclavos, Cuilapa Santa Rosa\n58073744");
+    
+    }
+    
+}
